@@ -1,0 +1,61 @@
+
+p{
+    font-family: 'Merriweather', serif;
+}
+
+h1, h2, h3{
+   font-family: 'Merriweather Sans', sans-serif; 
+}
+
+#subtitulo{
+    font-family: 'Merriweather',  serif; 
+    font-size:1.12rem;  
+}
+
+h3{
+    font-weight: 600;
+    font-size: 1.12rem;
+    margin-top: 0.68rem;
+}
+
+#Registrate{
+    background-color: #BE97A5;
+}
+
+nav{
+    background-color: #C1272D;
+}
+a{
+  color: #E1E1D2;
+}
+#copy{
+     color: #E1E1D2;
+    font-size: 0.68rem;
+}
+#redes{
+    color: #E1E1D2;
+    font-size: 0.94rem;
+}
+#foot{
+   color: #E1E1D2;  
+}
+#button{
+   background-color: #B4405B;
+    color: #E1E1D2;
+}
+h2{
+    color: #C1272D;
+}
+h1{
+    color: #B4405B;    
+}
+#abajo{
+    font-size: 0.75rem;
+    font-variant:" light";
+}
+#videos{
+    background-color: darkgrey;
+}
+footer{
+    background-color: #C1272D;
+ }
